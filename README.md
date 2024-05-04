@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science End-to-End projects.
 - 💞️ I’m looking to collaborate on Data SCience related work.
 - 📫 How to reach me- abhishekpawar2626@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
