@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data SCience related work.
 - 📫 How to reach me- abhishekpawar2626@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoyed to build AI models to solve business problems.
 
 <!---
 Abhi13Pawar/Abhi13Pawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
