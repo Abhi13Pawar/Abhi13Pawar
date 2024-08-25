@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abhi13Pawar.
+- 👋 Hi, I’m Abhishek Pawar.
 - 👀 I’m interested in Data Science Domain.
-- 🌱 I’m currently learning Data Science End-to-End projects.
+- 🌱 I’m currently working is Data Science Associate in Accenture.
 - 💞️ I’m looking to collaborate on Data SCience related work.
 - 📫 How to reach me- abhishekpawar2626@gmail.com
 - 😄 Pronouns: He/Him
