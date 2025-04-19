@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Pawar.
 - 👀 I’m interested in Data Science Domain.
-- 🌱 I’m currently working is Data Science Associate in Accenture.
+- 🌱 I’m currently working as Senior GenAI Engineer in NTT DATA.
 - 💞️ I’m looking to collaborate on Data Science related work.
 - 📫 How to reach me- abhishekpawar2626@gmail.com
 - 😄 Pronouns: He/Him
